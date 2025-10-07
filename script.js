@@ -227,11 +227,19 @@ function startTypewriter() {
 
 Happy Birthday!
 
-Hari ini aku pengen kamu ngerasain semua hal positif dan keajaiban yang cuma bisa didapetin kalo kamu ada di dunia ini. Semoga segala keinginanmu tercapai, apalagi yang kocak-kocak dan gak biasa, karena kamu tuh unik banget! Aku selalu percaya kalau kamu bisa melewati semua tantangan dengan kekuatan dan semangat yang luar biasa.
+Sayang, selamat ulang tahun ya…
+Di dunia ini mungkin banyak orang yang kenal kamu,
+tapi cuma satu yang benar-benar sayang kamu sepenuh hati — aku.
 
-Terima kasih udah jadi bagian hidup aku yang paling berharga. Kamu bener-bener bikin hari-hari aku jadi lebih berarti dan penuh warna. Semoga di tahun yang baru ini, kamu makin bahagia, makin sukses, dan tentunya makin cantik (walaupun udah cantik banget sih!).
+Aku nggak butuh alasan buat tetap di sampingmu,
+cukup tahu kalau kamu ada, itu sudah cukup buat bahagiaku.
 
-I love you so much! 💕`;
+Semoga di hari spesialmu ini, kamu sadar…
+kalau cinta yang paling tulus itu sedang menatapmu sekarang —
+lewat kata-kata ini.
+
+Aku sayang kamu, bukan karena hari ini ulang tahunmu,
+tapi karena setiap detik bersamamu terasa seperti hadiah. 💖`;
     
     // Clear content and start fresh
     messageContent.innerHTML = '';
@@ -322,35 +330,35 @@ function startPhotoShow() {
     // Foto lokal dari folder images
     const photos = [
         {
-            text: 'Our First Date 💕',
+            text: '💕',
             image: './images/photo1.jpg'
         },
         {
-            text: 'Birthday Moment 🎂',
+            text: '🤍',
             image: './images/photo2.jpg'
         },
         {
-            text: 'Adventure Time 🌟',
+            text: '💜',
             image: './images/photo3.jpg'
         },
         {
-            text: 'Cozy Together ❤️',
+            text: '❤️',
             image: './images/photo4.jpg'
         },
         {
-            text: 'Sweet Memories 🥰',
+            text: '💙',
             image: './images/photo5.jpg'
         },
         {
-            text: 'Laugh Together 😂',
+            text: '💚',
             image: './images/photo6.jpg'
         },
         {
-            text: 'Perfect Day ☀️',
+            text: '💛',
             image: './images/photo7.jpg'
         },
         {
-            text: 'Love Forever 💖',
+            text: '💖',
             image: './images/photo8.jpg'
         }
     ];
